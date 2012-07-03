@@ -1,0 +1,14 @@
+C:\Users\giles\Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\giles\Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\giles\Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\giles\Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\giles\Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\bin\SignalR.dll
+C:\Users\giles\Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\bin\SignalR.Hosting.AspNet.dll
+C:\Users\giles\Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\bin\SignalR.Hosting.Common.dll
+C:\Users\giles\Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\giles\Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\bin\SignalR.xml
+C:\Users\giles\Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\bin\SignalR.Hosting.AspNet.xml
+C:\Users\giles\Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\bin\SignalR.Hosting.Common.xml
+C:\Users\giles\Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\giles\Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\giles\Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
